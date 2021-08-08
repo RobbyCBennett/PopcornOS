@@ -1,15 +1,3 @@
-/* much of tinywm's purpose is to serve as a very basic example of how to do X
- * stuff and/or understand window managers, so i wanted to put comments in the
- * code explaining things, but i really hate wading through code that is
- * over-commented -- and for that matter, tinywm is supposed to be as concise
- * as possible, so having lots of comments just wasn't really fitting for it.
- * i want tinywm.c to be something you can just look at and go "wow, that's
- * it?  cool!"  so what i did was just copy it over to annotated.c and comment
- * the hell out of it.  ahh, but now i have to make every code change twice!
- * oh well.  i could always use some sort of script to process the comments out
- * of this and write it to tinywm.c ... nah.
- */
-
 /* most X stuff will be included with Xlib.h, but a few things require other
  * headers, like Xmd.h, keysym.h, etc.
  */
