@@ -1,12 +1,13 @@
-PROGRAM := popcorn
+PROGRAM			:= popcorn
 
-COMPILE := g++
-OPTIONS := -Os -Wall -Wextra -Wpedantic
+COMPILER		:= g++
+OPTIMIZATION	:= -O2
+WARNINGS		:= -Wall -Wextra -Wpedantic
 
-PREFIX?=/usr/X11R6
+LIBRARIES		:= -lX11
 
 all:
-	$(COMPILE) $(OPTIONS) -I $(PREFIX)/include $(PROGRAM).c -L $(PREFIX)/lib -lX11 -o $(PROGRAM)
+	$(COMPILER) $(OPTIMIZATION) $(WARNINGS) $(PROGRAM).c $(LIBRARIES) -o $(PROGRAM)
 
 clean:
 	rm -f $(PROGRAM)
