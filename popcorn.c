@@ -2,6 +2,7 @@
 // Alt+Button1, drag: interactive window move
 // Alt+Button3, drag: interactive window resize
 // Alt+F1: raise focused window
+// Alt+F2: open terminal
 
 /* most X stuff will be included with Xlib.h, but a few things require other
  * headers, like Xmd.h, keysym.h, etc.

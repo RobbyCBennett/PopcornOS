@@ -1,0 +1,9 @@
+[Desktop Entry]
+GenericName=Popcorn
+Name=popcorn
+TryExec=popcorn
+Exec=popcorn
+
+Comment=A smart TV OS that is actually smart
+
+Keywords=TV;Smart;Television;
