@@ -1,8 +1,11 @@
 # Inspiration
 
 https://github.com/leftwm/leftwm
+
 https://github.com/Smithay/wayland-rs
-https://github.com/Smithay/smithay/
+
+https://github.com/Smithay/smithay
+
 https://lib.rs/crates/penrose
 
 # Installation
