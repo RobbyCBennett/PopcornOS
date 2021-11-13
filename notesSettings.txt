@@ -1,0 +1,251 @@
+NEVER HAVE A SYSTEM CATEGORY! IT'S TOO VAGUE.
+
+Be able to sort the items in alphabetical order, or in order of relavance.
+
+Show a preview of the items so you know what categories are.
+
+Have links that take you to the proper place.
+Example:
+	Peripheral Devices > Keyboard > Keyboard Shortcuts
+	Personalization > Keyboard Shortcuts
+
+System Devices
+	CPU
+		Usage
+		Info
+	GPU
+		Usage
+		Info
+	RAM
+		Usage
+		Info
+	Storage
+		Usage
+		Info
+		Related
+			Updates & Security > Backup
+			Removable drives & devices
+	Related
+		Other & Drivers
+		Troubleshoot
+
+Peripheral Devices
+	Display
+		Calibration
+		HDR
+		Refresh Rate
+		Position & Orientation
+		Enable Touch
+		Enable Touch Only During Tablet Mode
+		Enable Auto Rotation
+		Enable Auto Rotation Only During Tablet Mode
+		Night Light
+		Screenshots & Screen Capture Location
+		Scrolling screenshots
+		Screens to screenshot
+		Screens to capture
+		Screen capture resolution
+		Screen capture refresh rate
+		Screen capture bitrate
+		Related
+			Multitasking > Touch Screen
+			Casting
+			Accessibilty > Scaling
+			Power & Sleep > Automatic Brightness
+			Personalization > Dark Mode
+			Personalization > Lock Screen
+	Headphones & Speakers
+		Default
+	Keyboard
+		Enable Multi-Keyboard Input
+		Repeat Delay
+		Clipboard
+			Enable clipboard
+			Allow apps clipboard access
+		Related
+			Personalizaiton > Keyboard Shortcuts
+	Mouse
+		Mouse Speed
+		Scroll Speed
+		Related
+			Personalizaiton > Cursor
+			Accessibility > Mouse
+	Touchpad
+		Mouse Speed
+		Scroll Speed
+		Scroll direction
+		Disable Touchpad with Mouse
+		Enable Touchpad while Typing
+		Touchpad Gestures
+		Swap left & right click
+		Enable middle click
+		Related
+			Personalizaiton > Cursor
+			Accessibility > Mouse
+	Microphone
+		Related
+			Privacy > Microphone
+	Camera
+		Related
+			Privacy > Microphone
+	Printers & Scanners
+		Default
+		Color
+		Flip pages
+	Removable Drives & Devices
+		Mount removable drives when plugged in
+		Mount removable devices when plugged in
+		Autorun
+	Related
+		Other & Drivers
+		Troubleshoot
+
+Network & Communication
+	Cellular Data
+	Ethernet
+	Bluetooth
+	Hotspot
+	WiFi
+	VPN
+	DNS
+	File Sharing
+	Casting
+	Remote Desktop
+	Related
+		Other & Drivers
+		Updates & Security > Firewall
+		Troubleshoot
+
+Personalization
+	Background
+	Colors
+	Lock Screen
+	Fonts
+	App Search
+	Taskbar
+	Title Bar
+	Theme
+	Sounds
+	Dark Mode
+	Widgets
+	Icons
+		App Icons
+		Folder Icons
+		File Icons
+		Drives
+		Trash
+	Keyboard Shortcuts
+		Keyboard Action
+		Interface Action
+		Open Applicaiton
+
+Apps & Notifications
+	Installed
+	Default
+		Web Browser
+		Email
+		File Manager
+		Terminal
+		File Type
+	App Store
+	Focus Assist
+		Focus mode
+		Apps allow during focus mode
+		Usage graphs
+	Notifications
+		Do Not Disturb
+		Position
+		Per app
+			Allow popup
+			Allow notifications on lock screen
+			Sounds
+
+Ease of Access
+	Password Manager
+	Display
+	Mouse
+		Single click to double click, control click for selection
+		Snap to buttons
+		Size
+		Shake to Find
+	Text Cursor
+	Magnifier
+	Colors & Contrast
+	Text to Speech
+	Captions
+	Audio
+	Speech Recognition
+	Keyboard
+
+Multitasking
+	Touch Screen
+	Window Snapping
+	Window Focus
+	Taskbar
+	Title Bars
+	Workspaces
+		(Be able to store workspace in storage for later)
+
+Power & Sleep
+	Battery
+		Info
+	Buttons & Lid
+		Power button on battery:
+			Nothing
+			Suspend
+			Hibernate
+			Shutdown
+			Ask
+		Power button plugged in
+		Sleep button on battery
+		Sleep button plugged in
+		Hibernate button on battery
+		Hibernate button plugged in
+		Shut lid on battery
+		Shut lid pluged in
+		Brightness step count
+		Brightness step exponential
+	Automatic Power Saving
+		Automatic Brightness Graph:
+			Simple linear graph with controllable knobs at 0% and 100% battery
+		Critical Battery Level
+		Critical Battery Action
+
+Updates & Security
+	Updates
+	Antimalware
+	Backup
+	Folder Protection
+	Find My Device
+	Firewall
+		Allow specific apps through all, ethernet, wifi, cellular, and hotspot
+	Related
+		Users > Authentification
+		Privacy
+
+Privacy
+	Camera
+	Microphone
+	Location
+	etc
+
+Users
+	Name
+	Profile Picture
+	Authentification
+		PIN
+		Password
+		Fingerprint
+
+Region
+	Locale
+	Date & Time
+	Language
+
+Settings Editor
+	Be able to add custom settings
+
+Help
+	Feedback
+	Guides
+	Troubleshoot
