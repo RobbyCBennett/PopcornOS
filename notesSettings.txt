@@ -128,6 +128,7 @@ Personalization
 	Sounds
 	Dark Mode
 	Widgets
+	Animations
 	Icons
 		App Icons
 		Folder Icons
@@ -146,8 +147,10 @@ Apps & Notifications
 		Email
 		File Manager
 		Terminal
+		Package Manager GUI
 		File Type
-	App Store
+	Package Managers
+	Startup
 	Focus Assist
 		Focus mode
 		Apps allow during focus mode
@@ -163,6 +166,8 @@ Apps & Notifications
 Ease of Access
 	Password Manager
 	Display
+		Scale
+		Contrast
 	Mouse
 		Single click to double click, control click for selection
 		Snap to buttons
@@ -177,12 +182,17 @@ Ease of Access
 	Speech Recognition
 	Keyboard
 
-Multitasking
+Interface & Multitasking
+	Interface Mode
+		Mobile
+		Desktop/Laptop
+		TV
 	Touch Screen
 	Window Snapping
 	Window Focus
 	Taskbar
 	Title Bars
+	Hot Corners
 	Workspaces
 		(Be able to store workspace in storage for later)
 
@@ -239,13 +249,24 @@ Users
 
 Region
 	Locale
+		Country
 	Date & Time
+		Automatic
+		Set date
+		Set time
+		Date format
+		Time format
 	Language
+		Default language
+		Languages
 
 Settings Editor
 	Be able to add custom settings
 
 Help
+	Discover software
 	Feedback
 	Guides
+	Forum
 	Troubleshoot
+	Donate
