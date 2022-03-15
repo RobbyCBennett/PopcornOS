@@ -21,6 +21,10 @@ https://lib.rs/crates/penrose
    - Software installation/removal permission
    - Home directory permission
    - Clipboard permission
+- Package manager: Make it not suck
+   - Fast, with a configuration to automatically update the URLs at 3 AM, or whenever
+   - Intuitive commands & shorthand commands
+   - --yes-to-dependencies option
 
 # Installation
 
