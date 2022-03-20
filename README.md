@@ -17,7 +17,7 @@ https://lib.rs/crates/penrose
    - Built-in multi-key to multi-key remapping
    - Built-in clipboard
    - Ability to combine status bar & taskbar
-   - Ability to hide status bar & task bar (and show popups for audio changes/network changes.)
+   - Ability to hide status bar & task bar (and show popups for audio changes/network changes)
 - Security: Users for each permission
    - Keyboard permission
    - Software installation/removal permission
