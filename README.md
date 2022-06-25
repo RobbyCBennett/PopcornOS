@@ -27,6 +27,8 @@ https://lib.rs/crates/penrose
    - Fast, with a configuration to automatically update the URLs at 3 AM, or whenever
    - Intuitive commands & shorthand commands
    - --yes-to-dependencies option
+- Media app with voting
+   - People with different controllers can vote for games
 
 # Installation
 
